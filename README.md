@@ -18,7 +18,7 @@ Code is now running on port 5500.
 
 [![Watch the video](https://drive.google.com/file/d/1J8j8lhuCBRRAUXm9SqwKh5l9p2EjkqEE/view?usp=sharing)](https://drive.google.com/file/d/10ZfbsWc6o-sOwZNYM70BDE19isWaHYPT/view?usp=sharing)
 
-![screenshot](https://drive.google.com/uc?export=view&id=15D88TjMu-OOet5HYq3zTEIFJRhckyEJp/view?usp=sharing "Registration Form")
+![screenshot](https://drive.google.com/uc?export=view&id=15D88TjMu-OOet5HYq3zTEIFJRhckyEJp "Registration Form")
 
 ![screenshot](https://drive.google.com/file/d/1codVfJN-RH1Vd6hvqOXzxrF78O3VEQDG/view?usp=sharing?raw=true "Form Filling")
 
